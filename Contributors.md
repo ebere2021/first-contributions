@@ -1,6 +1,6 @@
 dedsec
 - [Arda Aras Çavdur](https://github.com/Arda-Aras103)
-- [Samuel Abia](https://github.com/ebere2021)
+- [Samuel Abia Snr](https://github.com/ebere2021)
 - [Jeevesh](https://github.com/jeeveshcodes)^o6o# Contributors
 - [Yogesh Choudhary](https://github.com/Yogesh-dev318)
 -[Nishchitha V](https://github.com/nishchitha-dev/first-contributions.git)
